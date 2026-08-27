@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="建設現場を表すアイコン">
+  <rect width="64" height="64" fill="#20262a"/>
+  <path d="M10 45h44M15 45V32h13v13M36 45V21h13v24" fill="none" stroke="#fff" stroke-width="4"/>
+  <path d="M12 18h31l9 8" fill="none" stroke="#b32624" stroke-width="5"/>
+</svg>
